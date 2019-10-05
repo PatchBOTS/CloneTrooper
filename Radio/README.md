@@ -16,14 +16,14 @@ These files do take time and work, if you'd like to contribute you can click the
 ## Bill of Materials 
 These are all the items you will need in addition to the 3D printed parts. (Note: Any link from Amazon is an affiliate link that supports the channel). Please report and dead or non-functioning links in the Issues tab above.
 
-Heptagonal Knurled Knobs (3): https://www.digikey.com/product-detai...
-Magnets: https://www.kjmagnetics.com/proddetail.asp?prod=DX02-N52
-Antenna: https://www.ebay.com/itm/Wideband-BNC...
-Brass Bar: https://amzn.to/2AK5Z4V
-Brass Bender with Practice Bars: https://amzn.to/2VcEWbP
-Rotary Encoders:   https://amzn.to/355AWhR
-Blow Torch: https://amzn.to/31XSGtL
-Blow Torch Fuel: https://amzn.to/2IoxGEB
+Heptagonal Knurled Knobs (3): https://www.digikey.com/product-detai...  
+Magnets: https://www.kjmagnetics.com/proddetail.asp?prod=DX02-N52  
+Antenna: https://www.ebay.com/itm/Wideband-BNC...  
+Brass Bar: https://amzn.to/2AK5Z4V  
+Brass Bender with Practice Bars: https://amzn.to/2VcEWbP  
+Rotary Encoders:   https://amzn.to/355AWhR  
+Blow Torch: https://amzn.to/31XSGtL  
+Blow Torch Fuel: https://amzn.to/2IoxGEB  
 
 Follow the video above for basic construction, it's very simple.  If you have a question please post to the Issues tab above. I will answer your issue and hopefully it will help someone else with the same issue down the line.  
 
