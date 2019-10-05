@@ -28,3 +28,5 @@ Blow Torch Fuel: https://amzn.to/2IoxGEB
 Follow the video above for basic construction, it's very simple.  If you have a question please post to the Issues tab above. I will answer your issue and hopefully it will help someone else with the same issue down the line.  
 
 One thing not covered in the video is the 3D part called Radio Top Knob Spacer.STL    When I inserted the rotarty endocder through the printed part for the TOP KNOB. The knob sat too high.  So instead I installed the knob into this spacer and glued it in from below, exposing the bare minimum of the rotary endcoder needed to mount the knob.  
+
+[img]https://i.imgur.com/p8ymdL9.jpg[/img]
