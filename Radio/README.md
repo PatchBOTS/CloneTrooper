@@ -29,4 +29,5 @@ Follow the video above for basic construction, it's very simple.  If you have a 
 
 One thing not covered in the video is the 3D part called Radio Top Knob Spacer.STL    When I inserted the rotarty endocder through the printed part for the TOP KNOB. The knob sat too high.  So instead I installed the knob into this spacer and glued it in from below, exposing the bare minimum of the rotary endcoder needed to mount the knob.  
 
-[img]https://i.imgur.com/p8ymdL9.jpg[/img]
+
+[![BOW](https://i.imgur.com/p8ymdL9.jpg)](https://youtu.be/kG_VW7UEpcM)
