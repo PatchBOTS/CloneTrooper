@@ -1,4 +1,4 @@
-[![BOW](https://i.imgur.com/RzcEO6a.jpg)](https://youtu.be/pvdbT6hd0-c)
+[![BOW](https://i.imgur.com/Fxn7sab.jpg)](https://youtu.be/pvdbT6hd0-c)
 
 # Clone Trooper Build - Clone Commander Bow
 Repository for all supplemental parts made for my Clone Trooper Build
