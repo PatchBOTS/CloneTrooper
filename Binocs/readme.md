@@ -1,5 +1,4 @@
 
-[![BOW](https://imgur.com/3cT0yqN.jpg)](https://www.youtube.com/watch?v=QHn8Yd2XTCI)
 
 # Bincoulars
 Repository for all supplemental parts made for my Clone Trooper Build
